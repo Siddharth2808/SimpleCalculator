@@ -1,0 +1,25 @@
+.jai{
+    margin: 0px;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: 1px solid rgb(225, 231, 231);;
+    font-size: 1.5rem;
+    text-align: center;
+    line-height: 100px;
+    font-weight: bold;
+}
+#c51{
+    width:202px;
+}
+.op{
+    background-color: rgb(197, 127, 150);
+}
+#c01{
+    text-align: right;
+    width:396px;
+    padding-right: 10px;
+    background-color: rgb(225, 231, 231);
+    font-size: 1.7rem;
+    color: rgb(51, 51, 40);
+}
