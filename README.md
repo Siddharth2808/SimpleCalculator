@@ -1,0 +1,3 @@
+# SimpleCalculator
+A calculator created using Javascript...
+In process of learning javascript, I created this basic calculator.
